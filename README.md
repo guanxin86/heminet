@@ -12,3 +12,5 @@ pm2 start ./heminetwork/bin/popmd --name heminet
 
 ### 教程
 [https://github.com/ademulyanaDEV/hemi-miner/blob/main/hemi-minerv0.5.0.md]
+### 最新release
+[release](https://github.com/hemilabs/heminetwork/releases/download/)
